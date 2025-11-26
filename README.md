@@ -1,2 +1,2 @@
-# seasonal_metabracode_community_analysis
-Spatio-seasonal closely related freshwater bacteria, microeukaryotes and zooplankton DNA metabracode analysis with R
+# seasonal_metabarcode_community_analysis
+Statistical analysis of spatio-seasonal metabarcoding data of closely related freshwater bacteria, microeukaryotes, and zooplankton using R.
